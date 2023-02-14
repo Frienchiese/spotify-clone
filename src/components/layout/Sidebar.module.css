@@ -1,0 +1,9 @@
+.logoCont {
+  max-width: 70%;
+  padding: 1vw;
+}
+
+.logoCont img {
+  max-width: 100%;
+  max-height: 100%;
+}
